@@ -1,3 +1,4 @@
+
 # Bluestock Mutual Fund Analytics Capstone
 
 ## Overview
@@ -24,3 +25,6 @@ This project analyzes mutual fund performance, NAV trends, SIP inflows, investor
 ## Author
 
 Makarand Patil
+=======
+
+

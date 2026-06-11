@@ -73,4 +73,4 @@ python src/run_pipeline.py
 ## Author
 
 Makarand Patil
-BSc Computer Science
+

@@ -70,6 +70,18 @@ pip install -r requirements.txt
 
 python src/run_pipeline.py
 
+## Advanced Analytics
+
+This project includes advanced financial and investor analytics:
+
+- Historical VaR (95%) & CVaR
+- Rolling 90-Day Sharpe Ratio
+- Investor Cohort Analysis
+- SIP Continuity Analysis
+- Mutual Fund Recommendation System
+- Sector HHI Concentration Analysis
+- Advanced Business Insights
+
 ## Author
 
 Makarand Patil
